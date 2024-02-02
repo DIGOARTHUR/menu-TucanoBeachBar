@@ -1,0 +1,36 @@
+.card-container {
+  display: flex;
+  flex-direction: column; /* Muda a direção do flex para coluna */
+  gap: 20px; /* Espaço entre os cards */
+  align-items: center; /* Alinha os itens ao centro na direção transversal (horizontal) */
+}
+
+.categoria-container {
+  width: 100%; /* Ocupa toda a largura disponível */
+  padding: 15px; /* Adiciona algum espaçamento interno */
+  box-sizing: border-box; /* Considera a borda e o preenchimento ao calcular a largura */
+}
+
+.card-item {
+  width: 100%;
+  list-style: none;
+  flex: 1;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-sizing: border-box; 
+  padding: 5px;
+  
+  
+  
+}
+
+
+.card-item h3 {
+  margin-bottom: 10px; 
+}
+
+
+.card-item strong {
+  display: block; 
+  margin-top: 10px; 
+}

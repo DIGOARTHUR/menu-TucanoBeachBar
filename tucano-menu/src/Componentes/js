@@ -1,0 +1,17 @@
+Script started on Wed Jan 31 19:14:11 2024
+[1m[7m%[27m[1m[0m                                                [0m[27m[24m[Jfilipefranco@Air-de-Filipe Componentes % [K[?2004hnnode sc [Krript.js[?2004l
+node:internal/modules/cjs/loader:1051
+  throw err;
+  ^
+
+Error: Cannot find module '/Users/filipefranco/Desktop/Tucano-menu/tucano-menu/src/Componentes/script.js'
+[90m    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)[39m
+[90m    at Module._load (node:internal/modules/cjs/loader:901:27)[39m
+[90m    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)[39m
+[90m    at node:internal/main/run_main_module:23:47[39m {
+  code: [32m'MODULE_NOT_FOUND'[39m,
+  requireStack: []
+}
+
+Node.js v20.9.0
+[1m[7m%[27m[1m[0m                                                [0m[27m[24m[Jfilipefranco@Air-de-Filipe Componentes % [K[?2004h
