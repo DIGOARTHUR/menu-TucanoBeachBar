@@ -20,7 +20,7 @@ export function InfoPage () {
         <div class="text-2xl" >
             <ul class="max-w-md divide-y divide-gray-200 dark:divide-gray-700"  >
             <li class="pb-3 sm:pb-4 text-1xl " >
-            <a href={Cafe}>Café</a> 
+            <a href="#Cafe">Café</a> 
             </li>
           <li class="pb-3 sm:pb-4   text-1xl" ><a href="#Bar">Bar</a></li>
           <li class="pb-3 sm:pb-4  text-1xl" >  <a href="#Cozinha">Cozinha</a></li>
