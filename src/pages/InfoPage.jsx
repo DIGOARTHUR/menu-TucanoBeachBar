@@ -23,9 +23,9 @@ export function InfoPage () {
             <a href={Cafe}>Café</a> 
             </li>
           <li class="pb-3 sm:pb-4   text-1xl" ><a href="#Bar">Bar</a></li>
-          <li class="pb-3 sm:pb-4  text-1xl" >  <a href={Cozinha}>Cozinha</a></li>
+          <li class="pb-3 sm:pb-4  text-1xl" >  <a href="#Cozinha">Cozinha</a></li>
         <li class="pb-3 sm:pb-4 text-1xl " > <a href="#Bebidas">Bebidas</a></li>
-         <li class="pb-3 sm:pb-4 text-1xl " > <a href={Snacks}>Snacks</a> </li>
+         <li class="pb-3 sm:pb-4 text-1xl " > <a href="#Snacks">Snacks</a> </li>
           
             </ul>
         </div>
