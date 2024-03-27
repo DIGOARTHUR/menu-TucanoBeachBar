@@ -837,9 +837,16 @@ const menu =
     },
     {
         id: 120,
-        name: 'Sandes Peito de Frango',
+        name: 'Sandes mista',
         description: 'Pão baguete, queijo, fiambre',
         price: '2,20 €',
+        category: 'Snacks'
+    },
+    {
+        id: 120,
+        name: 'Tosta mista',
+        description: 'Pão baguete, queijo, fiambre',
+        price: '2,70 €',
         category: 'Snacks'
     },
     
