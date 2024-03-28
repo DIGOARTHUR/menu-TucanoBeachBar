@@ -8,6 +8,10 @@ import {
 import './index.css'
 import { InfoPage } from './pages/InfoPage.jsx'
 import Cafe from './pages/Cafe.jsx'
+import Cozinha from './pages/Cozinha.jsx'
+import Snacks from './pages/Snacks.jsx'
+import Bebidas from './pages/Bebidas.jsx'
+import Bar from './pages/Bar.jsx'
 
 
 const router = createBrowserRouter ([{
@@ -22,6 +26,24 @@ const router = createBrowserRouter ([{
 {
   path: "infopage/cafe",
   element: <Cafe />,
+},
+{
+  path: "infopage/bar",
+  element: <Bar />,
+},
+{
+ path: "infopage/bebidas",
+ element: <Bebidas />, 
+},
+{
+  path: "infopage/cozinha",
+  element: <Cozinha />  ,
+},
+
+{
+  path: "infopage/snacks",
+  element: <Snacks />,
+
 },
 
 
