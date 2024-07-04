@@ -5,7 +5,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero-pattern': "url('assets/imgs/cafeteria.png')",
+        'footer-texture': "url('/img/footer-texture.png')",
+      },
+      fontFamily: {
+        Poppins: ['"Poppins"']
+      }
+    },
   },
   plugins: [],
 }

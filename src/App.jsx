@@ -1,27 +1,35 @@
-import { Header } from "./components/Header";
-import coffee from "./assets/imgs/coffee.png";
-import menu from "./data/data";
-function App() {
-  return (
-    <>
-      <Header />
-      <div className="flex flex-col gap-1 mx-2 mt-7">
 
-  
-      {menu.map((item, index) => (
-        <div key={index} className="flex justify-between p-5 border-solid border-2 border-neutral-500 rounded-md">
-          <div >
-          <h2>{item.name}</h2>
-         
-          <p>{item.description}</p>
-          <h3>{item.price}</h3>
-          </div>
-          <img src={coffee} className="h-12"/>
-        </div>
-      ))}
-          </div>
-    </>
-  );
+
+import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
+import  Home  from './pages/Home';
+import Bar from './pages/Bar';
+import Bebida from './pages/Bebida';
+import Cafeteria from './pages/Cafeteria';
+import Cozinha from './pages/Cozinha';
+
+
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route >
+      <Route path='/' element={<Home/>} />
+      <Route path='/Bar' element={<Bar/>} />
+      <Route path='/Bebida' element={<Bebida/>} />
+      <Route path='/Cafeteria' element={<Cafeteria/>} />
+      <Route path='/Cozinha' element={<Cozinha/>} />
+    </Route>
+  )
+)
+
+
+
+function App() {
+
+  return (
+    <div className="bg-[url('bg4.png')] ">
+      <RouterProvider router={router} />
+    </div>
+  )
+
 }
 
 export default App;
