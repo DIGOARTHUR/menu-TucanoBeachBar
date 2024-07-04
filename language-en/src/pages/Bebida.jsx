@@ -69,7 +69,7 @@ export default function Bebida() {
 
                         (
                             <li key={index} className="flex  p-5 border-solid border-2 border-neutral-500 rounded-md bg-[#ffffffd0] gap-3">
-                                <img src={item.logo} className="h-14 rounded-full" />
+                                <img src={item.logo} className="w-14 rounded-full" />
                                 <div>
                                     <h2 className="text-xl font-bold" >{item.name}</h2>
 
