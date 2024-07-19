@@ -339,7 +339,7 @@ const menu =
             name: 'Imperial',
             description: 'Cerveja de Pressão',
             price: '1,50 €',
-            logo:'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/004ab573-9f12-4f0d-b7b1-d9c027964676',
+            logo:'./bar/superbock.png',
             category: 'bar'
         },
         {
@@ -347,7 +347,7 @@ const menu =
             name: 'Cerveja Garrafa 33CL',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/004ab573-9f12-4f0d-b7b1-d9c027964676',
+            logo:'./bar/superbock.png',
             category: 'bar'
         },
         {
@@ -355,7 +355,7 @@ const menu =
             name: 'Caneca',
             description: 'Cerveja Pressão 0,50cl',
             price: '2,80 €',
-            logo: 'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/004ab573-9f12-4f0d-b7b1-d9c027964676',
+            logo:'./bar/superbock.png',
             category: 'bar'
         },
         {
@@ -363,7 +363,7 @@ const menu =
             name: 'Cerveja Preta Garrafa 33CL',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0eba47c7-2903-475e-8662-8559ea1a866c',
+            logo:'./bar/superbock_stout.png',
             category: 'bar'
         },
         {
@@ -371,7 +371,7 @@ const menu =
             name: 'Cerveja s/ Alcool',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/5c3fc526-6f5d-4325-8869-b2210003ded7',
+            logo:'./bar/superbock_00.png',
             category: 'bar'
         },
         {
@@ -400,6 +400,7 @@ const menu =
             name: 'Torre de Cerveja',
             description: '',
             price: '18,00 €',
+            logo:'./bar/torre_de_cerveja.png',
             category: 'bar'
         },
         {
@@ -414,13 +415,14 @@ const menu =
             name: 'Favaios c/ Cerveja',
             description: 'Cerveja Pressão, Favaios',
             price: '2,70 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0e0d9cb6-a38d-4ae1-8e30-e9dbb35c0ffc',
+            logo:'./bar/favaio.png',
             category: 'bar'
         },
         {
             id: 54,
             name: 'Martine',
             description: 'Martine, cascas de limão, gelo',
+            logo:'./bar/martine.png',
             price: '2,00 €',
             category: 'bar'
         },
@@ -429,7 +431,7 @@ const menu =
             name: 'Favaios',
             description: 'Favaios, cascas de limão, gelo',
             price: '2,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0e0d9cb6-a38d-4ae1-8e30-e9dbb35c0ffc',
+            logo:'./bar/favaio.png',
             category: 'bar'
         },
         {
@@ -437,7 +439,7 @@ const menu =
             name: 'Somersby 20CL',
             description: 'Cidra Pressão',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/192da7fa-88c4-4a86-b2b0-cfa79641a80c',
+            logo:'./bar/somersby.png',
             category: 'bar'
         },
         {
@@ -445,7 +447,7 @@ const menu =
             name: 'Somersby 40CL',
             description: 'Cidra Pressão',
             price: '3,50 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/192da7fa-88c4-4a86-b2b0-cfa79641a80c',
+            logo:'./bar/somersby.png',
             category: 'bar'
         },
         {
@@ -453,6 +455,7 @@ const menu =
             name: 'Sangria',
             description: '',
             price: '12,00 €',
+            logo:'./bar/sangria.png',
             category: 'bar'
         },
         {
@@ -460,6 +463,7 @@ const menu =
             name: 'Sangria Copo',
             description: '',
             price: '3,50 €',
+            logo:'./bar/sangria_copo.png',
             category: 'bar'
         },
         {
@@ -474,7 +478,7 @@ const menu =
             name: 'Copo de vinho',
             description: '',
             price: '3,50 €',
-            logo: 'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/3b0a180d-6c7f-47df-8e8c-b2e6a1e4e909',
+            logo:'./bar/copo_de_vinho.png',
             category: 'bar'
         },
         {
@@ -482,7 +486,7 @@ const menu =
             name: 'Croft',
             description: '',
             price: '2,50 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/cd1491b5-7371-4a5e-a430-a2d4b33523dc',
+            logo:'./bar/croft.png',
             category: 'bar'
         },
         {
@@ -490,14 +494,14 @@ const menu =
             name: 'Croft 1/2',
             description: '',
             price: '3,50 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/cd1491b5-7371-4a5e-a430-a2d4b33523dc',
+            logo:'./bar/croft.png',
             category: 'bar'
         },
         {
             id: 64,
             name: 'Cr&f',
             description: '',
-            logo: 'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/cf14ed17-c7e3-45eb-93d7-bfbab8b683dd',
+            logo:'./bar/crf.png',
             price: '5,00 €',
             category: 'bar'
         },
@@ -506,14 +510,14 @@ const menu =
             name: 'Gin tonica - Bombay',
             description: '',
             price: '6,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/2637c0b0-277a-48e6-a831-f61b4993a1a2',
+            logo:'./bar/gin_tonica_bombay.png',
             category: 'bar'
         },
         {
             id: 66,
             name: 'Gin tonica - Bulldog',
             description: '',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/dbc8b38b-da21-4b00-b943-18b818419ce3',
+            logo:'./bar/gin_tonica_bulldog.png',
             price: '10,00 €',
             category: 'bar'
         },
@@ -522,7 +526,7 @@ const menu =
             name: 'Gin tonica - Gordon´s ',
             description: '',
             price: '6,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/435776ea-371e-4655-b7f4-e62503798fc4',
+            logo:'./bar/gin_tonica_gordons.png',
             category: 'bar'
         },
         {
@@ -530,7 +534,7 @@ const menu =
             name: 'Gin tonica - Gordon´s Pink',
             description: '',
             price: '8,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/f951c046-6c4d-434d-b2e3-cf893194cde5',
+            logo:'./bar/gin_tonica_gordonsPink.png',
             category: 'bar'
         },
         {
@@ -538,14 +542,14 @@ const menu =
             name: 'Gin tonica - Tanqueray',
             description: '',
             price: '6,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/f95d6f57-67b8-41d1-a017-499d0fa27b12',
+            logo: './bar/gin_tonica_tanqueray.png',
             category: 'bar'
         },
         {
             id: 70,
             name: 'Gin tonica - Tanquaray Sevilha',
             description: '',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ce8281b5-2453-4a42-9c9e-9e04345353b8',
+            logo: './bar/gin_tonica_tanqueraySevilha.png',
             price: '8,00 €',
             category: 'bar'
         },
@@ -553,7 +557,7 @@ const menu =
             id: 71,
             name: 'Gin tonica - BomBay Saphire',
             description: '',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/c74886c6-75f4-4f03-877f-25d525170d54',
+            logo: './bar/gin_tonica_bombay.png',
             price: '9,00 €',
             category: 'bar'
         },
@@ -562,7 +566,7 @@ const menu =
             name: 'Gin tonica - Hendrics',
             description: '',
             price: '10,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0032bdd4-9a82-41a4-b516-9676a1c4f907',
+            logo: './bar/gin_tonica_hendrics.png',
             category: 'bar'
         },
         {
@@ -570,7 +574,7 @@ const menu =
             name: 'Gin tonica - Sharish',
             description: '',
             price: '10,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/1fbbdba9-cc67-477d-8e83-14897efe493a',
+            logo: './bar/gin_tonica_sharish.png',
             category: 'bar'
         },
         {
@@ -592,7 +596,7 @@ const menu =
             name: 'Whisky Cardhu',
             description: '',
             price: '10,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0d41e39b-b3aa-45c2-b110-e80f82900e3a',
+            logo: './bar/whisky_cardhu.png',
             category: 'bar'
         },
         {
@@ -621,14 +625,14 @@ const menu =
             name: 'Licor Beirão',
             description: '',
             price: '5,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ef48b399-7933-4bdb-afeb-649dead72710',
+            logo: './bar/beirao.png',
             category: 'bar'
         },
         {
             id: 81,
-            name: 'Balleys',
+            name: 'Baileys',
             description: '',
-            logo: 'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/661c456a-2e9b-49db-aace-3c8d63761381',
+            logo: './bar/baileys.png',
             price: '5,00 €',
             category: 'bar'
         },
@@ -637,16 +641,15 @@ const menu =
             name: 'Amendoa Amarga',
             description: '',
             price: '3,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/55b1a1d2-a971-4b07-9c1d-ba6d575e6c15',
+            logo: './bar/amendoa_amarga.png',
             category: 'bar'
         },
         {
             id: 83,
             name: 'Aliança Velha',
             description: '',
-            logo: 'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/f01baa27-5e0f-46a5-a37c-b61dfeb27400',
             price: '4,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0741fe29-2304-4465-98ad-979e9e890e27',
+            logo: './bar/alianca_velha.png',
             category: 'bar'
         },
         {
@@ -654,14 +657,14 @@ const menu =
             name: 'Fim de século',
             description: '',
             price: '5,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/a691a125-fbef-4b48-b9ac-a3c196c8e1dc',
+            logo: './bar/fim_de_seculo.png',
             category: 'bar'
         },
         {
             id: 85,
             name: 'Cr&f 1/2',
             description: '',
-            logo: 'https://github.com/DIGOARTHUR/how-to-build-NPM-package/assets/59892368/cf14ed17-c7e3-45eb-93d7-bfbab8b683dd',
+            logo:'./bar/crf.png',
             price: '3,00 €',
             category: 'bar'
         },
@@ -675,7 +678,7 @@ const menu =
         {
             id: 87,
             name: 'Aliança Velha 1/2',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0741fe29-2304-4465-98ad-979e9e890e27',
+            logo: './bar/alianca_velha.png',
             description: '',
             price: '2,50 €',
             category: 'bar'
@@ -692,7 +695,7 @@ const menu =
             name: 'Macieira',
             description: '',
             price: '3,20 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/96f2047c-d06c-4910-821b-765fed81b8d6',
+            logo: './bar/macieira.png',
             category: 'bar'
         },
         {
@@ -700,7 +703,7 @@ const menu =
             name: 'Macieira 1/2 ',
             description: '',
             price: '5,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/96f2047c-d06c-4910-821b-765fed81b8d6',
+            logo: './bar/macieira.png',
             category: 'bar'
         },
         {
@@ -708,7 +711,7 @@ const menu =
             name: 'Licor Beirão 1/2',
             description: '',
             price: '3,00 €',
-            logo: 'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ef48b399-7933-4bdb-afeb-649dead72710',
+            logo: './bar/beirao.png',
             category: 'bar'
         },
         {
@@ -716,14 +719,14 @@ const menu =
             name: 'Amendoa Amarga 1/2',
             description: '',
             price: '2,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/55b1a1d2-a971-4b07-9c1d-ba6d575e6c15',
+            logo: './bar/amendoa_amarga.png',
             category: 'bar'
         },
         {
             id: 93,
             name: 'Shot',
             description: '',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/a2925d19-e56a-4a33-a2b1-2c0c7a5b944b',
+            logo: './bar/shot.png',
             price: '1,50 €',
             category: 'bar'
         },
@@ -732,6 +735,7 @@ const menu =
             name: 'Caipirinha',
             description: '',
             price: '5,00 €',
+            logo:'./bar/capirinha.png',
             category: 'bar'
         },
         {
@@ -739,6 +743,7 @@ const menu =
             name: 'Caipirão',
             description: '',
             price: '5,00 €',
+            logo:'./bar/caipirao.png',
             category: 'bar'
         },
         {
@@ -746,6 +751,7 @@ const menu =
             name: 'Caipi Black',
             description: '',
             price: '5,00 €',
+            logo:'./bar/caipiblack.png',
             category: 'bar'
         },
         {

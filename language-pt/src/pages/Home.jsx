@@ -89,14 +89,16 @@ export default function Home() {
         </div>
 
         <div className="relative mt-10">
-          <div className="flex justify-center absolute bg-black h-[220px] w-full bottom-0 bg-opacity-25">
-<span className="text-white"></span>
+          <div className="flex justify-center absolute bg-black  w-full bottom-0 bg-opacity-25">
+            <span className="text-white"></span>
 
           </div>
-
-          <video className='VideoTag' autoPlay loop muted>
+          <div dangerouslySetInnerHTML={{
+            __html: `
+          <video className='VideoTag' playsinline autoplay loop muted >
             <source src='waveVideo.mp4' type='video/mp4' />
-          </video>
+         </video>`}}
+          />
         </div>
 
 
