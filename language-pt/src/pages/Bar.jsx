@@ -11,9 +11,12 @@ import { TiArrowBackOutline } from "react-icons/ti";
 import Aos from "aos";
 import "aos/dist/aos.css";
 import Loader from "../components/Loader";
+import BackToTopButton from "../components/BackToTopButton";
 
 
 export default function Bar() {
+
+
 
     const categorias = ['bar', 'bebida', 'cafeteria', 'cozinha']
     const [data, setData] = useState([])
@@ -96,7 +99,7 @@ export default function Bar() {
                     }
                 </div>
 
-
+                <BackToTopButton />
 
 
             </div>

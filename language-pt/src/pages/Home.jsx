@@ -7,7 +7,7 @@ import { useState } from "react";
 import categories from "../utils/categories";
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
-
+import { FaLinkedin } from "react-icons/fa";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
@@ -93,12 +93,27 @@ export default function Home() {
             <span className="text-white"></span>
 
           </div>
+
+          
+       
+          <div className="relative text-[#ffffffc5] font-Poppins left-5 top-12">
+            <span className="text-sm"> created by: </span>
+
+            <div className="flex gap-2">
+            <a href="https://www.linkedin.com/in/digoarthur/" className="flex items-center gap-2 absolute z-10"><FaLinkedin className="fill-[#0077b7]" /> Diego Arthur</a>
+            <a href="https://www.linkedin.com/in/filipe-franco-0938641b9/" className="flex items-center gap-2 absolute  z-10 left-36"><FaLinkedin className="fill-[#0077b7]" /> Filipe </a>
+            </div>
+        
+
+          </div>
+
           <div dangerouslySetInnerHTML={{
             __html: `
           <video className='VideoTag' playsinline autoplay loop muted >
             <source src='waveVideo.mp4' type='video/mp4' />
          </video>`}}
           />
+
         </div>
 
 

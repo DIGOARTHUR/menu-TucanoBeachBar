@@ -7,7 +7,7 @@ const menu =
             name: 'Café',
             description: 'café expresso',
             price: '1,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/74871829-2ff5-424a-aa89-3cf609f7e3cc',
+            logo:'./cafeteria/cafe_expresso.png',
             category: 'cafeteria'
         },
         {
@@ -15,7 +15,7 @@ const menu =
             name: 'Carioca de café',
             description: 'Cafe expresso suave',
             price: '1,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/22637b96-2813-4382-8c89-c015dc1d6295',
+            logo:'./cafeteria/cafe_carioca.png',
             category: 'cafeteria'
         },
         {
@@ -23,7 +23,7 @@ const menu =
             name: 'Carioca de Limao',
             description: 'Cha pequeno de cascas de limão',
             price: '0.90 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/73964aac-bae7-4af9-898b-886061d73858',
+            logo:'./cafeteria/carioca_limao.png',
             category: 'cafeteria'
         },
         {
@@ -31,7 +31,7 @@ const menu =
             name: 'Chá',
             description: 'Infusao diversos sabores',
             price: '1,50 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/9d83e350-8e41-4b11-b54d-f1893876dc23',
+            logo:'./cafeteria/cha.png',
             category: 'cafeteria'
         },
         {
@@ -39,14 +39,14 @@ const menu =
             name: 'Café c/ gelo',
             description: 'café expresso com pedras de gelo',
             price: '1,20 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/c764739d-c13d-485f-b80f-f6a3efc054f1',
+            logo:'./cafeteria/cafe_com_gelo.png',
             category: 'cafeteria'
         },
         {
             id: 6,
             name: 'Café c/ Natas Pequeno',
             description: 'cafe expresso com topping de natas',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/37067b71-389f-459b-a0b6-b58a15efdbc5',
+            logo:'./cafeteria/cafe_com_natas.png',
             price: '1,30 €',
             category: 'cafeteria'
         },
@@ -55,7 +55,7 @@ const menu =
             name: 'Café c/ Natas Grande',
             description: 'cafe expresso  com topping de natas',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/37067b71-389f-459b-a0b6-b58a15efdbc5',
+            logo:'./cafeteria/cafe_com_natas.png',
             category: 'cafeteria'
         },
         {
@@ -70,7 +70,7 @@ const menu =
             name: 'Cappuccino',
             description: 'café expresso, leite vaporizado, natas, espuma de leite',
             price: '2,20 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/9d1eb265-088b-40cf-9d8c-9f225e580ac8',
+            logo:'./cafeteria/capuccino.png',
             category: 'cafeteria'
         },
         {
@@ -92,7 +92,7 @@ const menu =
             name: 'Chocolate Quente',
             description: 'Chocolate Quente super cremoso, varios sabores disponiveis',
             price: '3,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43507176-c549-4701-93bb-76c278842bb9',
+            logo:'./cafeteria/chocolate_quente.png',
             category: 'cafeteria'
         },
         {
@@ -100,7 +100,7 @@ const menu =
             name: 'Garoto',
             description: 'cafe expresso, leite',
             price: '€',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/bcb18478-939c-4102-adc9-d261ff9098eb',
+            logo:'./cafeteria/garoto.png',
             category: 'cafeteria'
         },
         {
@@ -108,7 +108,7 @@ const menu =
             name: 'Galao',
             description: 'cafe expresso, leite, espuma de leite',
             price: '1,40 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/442d9c36-58b6-47e9-8ba6-76408bd4e66a',
+            logo:'./cafeteria/galao.png',
             category: 'cafeteria'
         },
         {
@@ -116,7 +116,7 @@ const menu =
             name: 'Meia de Leite',
             description: 'cafe expresso, leite, espuma de leite',
             price: '1,30 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/fcb44d99-1b00-4190-8f48-0ba164dbe41b',
+            logo:'./cafeteria/meia_leite.png',
             category: 'cafeteria'
         },
         {
@@ -124,7 +124,7 @@ const menu =
             name: 'Ucal',
             description: 'Bebida achocolatada',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/c310d316-e9aa-4fe7-93bc-e4debe7b65f0',
+            logo:'./cafeteria/ucal.png',
             category: 'cafeteria'
         },
         {
@@ -139,7 +139,7 @@ const menu =
             name: 'Copo de Leite',
             description: '',
             price: '1,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/fc5ab185-5c58-4d97-9f53-1bae789f8e51',
+            logo:'./cafeteria/copo_leite.png',
             category: 'cafeteria'
         },
         {
@@ -155,7 +155,7 @@ const menu =
             name: 'Torrada',
             description: 'Pão de torrada ou baguete torrado, manteiga',
             price: '1,50 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ee0d0cac-fcbe-4019-bebd-b32cd0c18dac',
+            logo:'./cafeteria/torrada.png',
             category: 'cafeteria'
         },
         {
@@ -163,7 +163,7 @@ const menu =
             name: 'Meia Torrada',
             description: 'Pão de torrada ou baguete torrado, manteiga',
             price: '1,20 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ee0d0cac-fcbe-4019-bebd-b32cd0c18dac',
+            logo:'./cafeteria/torrada.png',
             category: 'cafeteria'
         },
         {
@@ -171,7 +171,7 @@ const menu =
             name: 'Tosta Mista',
             description: 'Pão Baguete, Fiambre, Queijo',
             price: '2,70 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/f63e84fd-443a-4a10-862b-a5fddbc6c214',
+            logo:'./cafeteria/tosta_mista.png',
             category: 'cafeteria'
         },
         {
@@ -179,7 +179,7 @@ const menu =
             name: 'Tosta Queijo',
             description: 'Pão Baguete, Queijo',
             price: '2,50 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ea5c8712-f438-4e38-bb23-b9034198a21f',
+            logo:'./cafeteria/tosta_queijo.png',
             category: 'cafeteria'
         },
         {
@@ -187,7 +187,7 @@ const menu =
             name: 'Tosta Fiambre',
             description: 'Pão Baguete, Fiambre',
             price: '2,50 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/8af4380f-9c3a-4f4c-9c11-d918a4555811',
+            logo:'./cafeteria/tosta_fiambre.png',
             category: 'cafeteria'
         },
         {
@@ -195,7 +195,7 @@ const menu =
             name: 'Salgados',
             description: 'Salgados variados, Risois:Leitão, Camarão, Coxinha de frango, Pastel de bacalhao, Croquete de carne',
             price: '1,70 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/914dde24-55b3-4594-9dc2-e731fab350cd',
+            logo:'./cafeteria/salgados.png',
             category: 'cafeteria'
         },
         {
@@ -203,7 +203,7 @@ const menu =
             name: 'Bolos',
             description: 'Pasteis de nata, Mil folhas, bola de berlim, bolos variados',
             price: '1,30 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/7c519bc3-cff6-4360-92a9-0853b29578e3',
+            logo:'./cafeteria/bolos.png',
             category: 'cafeteria'
         },
         {
@@ -211,7 +211,7 @@ const menu =
             name: 'Pao C/ Manteiga',
             description: 'Bageute com manteiga',
             price: '1,20 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/98b42e26-626f-40f0-b00a-6442ab25dbdf',
+            logo:'./cafeteria/pao_manteiga',
             category: 'cafeteria'
         },
         {
@@ -219,7 +219,7 @@ const menu =
             name: 'Agua s/ gás 0,50Cl',
             description: '',
             price: '1,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/fca91e7f-4dcc-42b5-9c1a-0f855b66718a',
+            logo:'./bebida/agua_sem_gas.png',
             category: 'bebida'
         },
         {
@@ -227,7 +227,7 @@ const menu =
             name: 'Agua c/ gás',
             description: 'Aguas das Pedras, Castelo',
             price: '1,60 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ed106e43-7cbd-4ced-b066-599cc085d47c',
+            logo:'./bebida/agua_com_gas.png',
             category: 'bebida'
         },
         {
@@ -235,7 +235,7 @@ const menu =
             name: 'Agua s/ gás 1,50L',
             description: '',
             price: '1,70 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/fca91e7f-4dcc-42b5-9c1a-0f855b66718a',
+            logo:'./bebida/agua_sem_gas.png',
             category: 'bebida'
         },
         {
@@ -243,7 +243,7 @@ const menu =
             name: 'Agua c/ gás sabores',
             description: 'Aguas das Pedras, Frizz',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/55bd068c-e2dc-430c-8045-e7a0f5966d2e',
+            logo:'./bebida/agua_com_sabores.png',
             category: 'bebida'
         },
         {
@@ -251,7 +251,7 @@ const menu =
             name: 'Agua Tónica',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ed106e43-7cbd-4ced-b066-599cc085d47c',
+            logo:'./bebida/agua.png',
             category: 'bebida'
         },
         {
@@ -259,7 +259,7 @@ const menu =
             name: 'Bem disposto',
             description: 'Gasosa c/ Groselia',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/f8fbb6cd-383f-4065-95c3-e9d3d07147a4',
+            logo:'./bebida/bem_disposto.png',
             category: 'bebida'
         },
         {
@@ -267,7 +267,7 @@ const menu =
             name: 'Coca Cola',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/ee75a63b-4875-4369-86fd-c759f354d973',
+            logo:'./bebida/cocacola.png',
             category: 'bebida'
         },
         {
@@ -275,7 +275,7 @@ const menu =
             name: 'Coca Cola Zero',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/c042ddfd-659e-4848-97dc-93fd06beaf29',
+            logo:'./bebida/cocacola_zero.png',
             category: 'bebida'
         },
         {
@@ -283,7 +283,7 @@ const menu =
             name: 'Guaraná',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/c02ba68c-b9a0-4ee0-b071-9c6bea9a3f8d',
+            logo:'./bebida/guarana.png',
             category: 'bebida'
         },
         {
@@ -291,14 +291,14 @@ const menu =
             name: 'Ginger Ale',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/749748da-4e9f-4688-b0f8-9f727ba12885', 
+            logo:'./bebida/gingerale.png', 
             category: 'bebida'
         },
         {
             id: 38,
             name: 'Ice Tea',
             description: 'Sabores: limão, pessego e manga',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/a5bee40c-bd00-4ca7-a27b-56801ec5c04c',
+            logo:'./bebida/icetea.png',
             price: '1,80 €',
             category: 'bebida'
         },
@@ -307,7 +307,7 @@ const menu =
             name: 'Sumo Natural',
             description: 'Sumo natural de laranja',
             price: '3,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/2628682e-29e4-47d0-8d6c-90717fbe0842',
+            logo:'./bebida/sumo_natural.png',
             category: 'bebida'
         },
         {
@@ -315,7 +315,7 @@ const menu =
             name: 'Sumol',
             description: 'Sabores: Ananás, Laranja',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/312ef240-2ae9-4464-b144-3092eea0964f',
+            logo:'./bebida/sumol.png',
             category: 'bebida'
         },
         {
@@ -323,7 +323,7 @@ const menu =
             name: 'Seven-Up',
             description: '',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/13ed3b7e-d786-4864-b7ca-89056449a8d0',
+            logo:'./bebida/sevenup.png',
             category: 'bebida'
         },
         {
@@ -331,7 +331,7 @@ const menu =
             name: 'Nectares',
             description: 'Compais sabores variados',
             price: '1,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/6aea59aa-b35d-4cda-a9a5-1814e6e68988',
+            logo:'./bebida/compal.png',
             category: 'bebida'
         },
         {
@@ -766,6 +766,7 @@ const menu =
             name: 'Cuba Libre',
             description: 'Rum com Cola',
             price: '5,00 €',
+            logo:'./bar/cuba_libre.png',
             category: 'bar'
         },
         {
@@ -801,7 +802,7 @@ const menu =
             name: 'Hamburguer Tucano',
             description: 'Hamburguer de vaca, molho cocktail, bacon, queijo, alface. tomate. cebola caramelizada',
             price: '9,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0d7a7b3a-ecba-46b0-9285-8d57b4990d78',
+            logo:'./cozinha/hamburguer.png',
             category: 'cozinha'
         },
         {
@@ -809,7 +810,7 @@ const menu =
             name: 'Hamburguer Picanha',
             description: 'Hamburguer de picanha, molho cocktail, queijo, fiambre, alface, tomate',
             price: '9,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0d7a7b3a-ecba-46b0-9285-8d57b4990d78',
+            logo:'./cozinha/hamburguer.png',
             category: 'cozinha'
         },
         {
@@ -817,7 +818,7 @@ const menu =
             name: 'Hamburguer de Frango',
             description: 'Hamburguer de Frango, maionese, queijo, fiambre, alface, tomate',
             price: '9,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/0d7a7b3a-ecba-46b0-9285-8d57b4990d78',
+            logo:'./cozinha/hamburguer.png',
             category: 'cozinha'
         },
         {
@@ -825,7 +826,7 @@ const menu =
             name: 'Salada do Mar',
             description: 'Alface, tomate, salmão fumado, atum, camarão, ovo cozido, molho vinagrette',
             price: '10,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/8dfa3f51-2706-4e69-8c34-de8fccfa7b31',
+            logo:'./cozinha/salada_mar.png',
             category: 'cozinha'
         },
         {
@@ -833,14 +834,14 @@ const menu =
             name: 'Salada Cesar',
             description: 'Alface, tomate, frango grelhado, Crottons, queijo ralado, molho cesar',
             price: '9,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/8dfa3f51-2706-4e69-8c34-de8fccfa7b31',
+            logo:'./cozinha/salada_mar.png',
             category: 'cozinha'
         },
         {
             id: 108,
             name: 'Salada Mista',
             description: 'Alface, tomate, molho vinagrette',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/50543f64-d6bc-4f0a-871d-1dae769071cc',
+            logo:'./cozinha/salada_mista.png',
             price: '4,00 €',
             category: 'cozinha'
         },
@@ -849,7 +850,7 @@ const menu =
             name: 'Kebab no Prato',
             description: 'Carne de Kebab, molho pitta',
             price: '9,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/435d000b-99e6-479b-8333-b1ca8bbf2a8d',
+            logo:'./cozinha/kebab_prato.png',
             category: 'cozinha'
         },
         {
@@ -857,7 +858,7 @@ const menu =
             name: 'Panados de Frango',
             description: 'files de peito panados, salada mista e batatas fritas',
             price: '9,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/435d000b-99e6-479b-8333-b1ca8bbf2a8d',
+            logo:'./cozinha/kebab_prato.png',
             category: 'cozinha'
         },
         {
@@ -865,7 +866,7 @@ const menu =
             name: 'Dose de Batata',
             description: '',
             price: '2,80 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/5d1dc17e-ef8e-4221-9771-966c2f799e4a',
+            logo:'./cozinha/dose_batata.png',
             category: 'cozinha'
         },
         {
@@ -873,7 +874,7 @@ const menu =
             name: 'Cesto de Pão',
             description: '',
             price: '1,20 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/4cc4f606-e015-4c52-a052-2be1710dd300',
+            logo:'./cozinha/pao.png',
             category: 'cozinha'
         },
         {
@@ -881,7 +882,7 @@ const menu =
             name: 'Sandes Salmão Fumado',
             description: 'Pão baguete, queijo Philadelphia, Salmão fumado, tomate, cebolinho',
             price: '6,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43705569-fc1d-4e6e-8ae8-84214802fc83',
+            logo:'./cozinha/sandes.png',
             category: 'cozinha'
         },
         {
@@ -889,7 +890,7 @@ const menu =
             name: 'Sandes de Atum',
             description: 'Pão baguete, atum, alface, tomate',
             price: '4,50 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43705569-fc1d-4e6e-8ae8-84214802fc83',
+            logo:'./cozinha/sandes.png',
             category: 'cozinha'
         },
         {
@@ -897,7 +898,7 @@ const menu =
             name: 'Sandes de Delicias do mar',
             description: 'Pão baguete, pasta de delicias do mar,alface, tomate, ovo cozido',
             price: '4,50 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43705569-fc1d-4e6e-8ae8-84214802fc83',
+            logo:'./cozinha/sandes.png',
             category: 'cozinha'
         },
         {
@@ -905,7 +906,7 @@ const menu =
             name: 'Sandes Verão',
             description: 'Pão baguete, queijo, fiambre, alface, tomate',
             price: '4,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43705569-fc1d-4e6e-8ae8-84214802fc83',
+            logo:'./cozinha/sandes.png',
             category: 'cozinha'
         },
         {
@@ -921,7 +922,7 @@ const menu =
             name: 'Sandes Queijo',
             description: 'Pão baguete, queijo',
             price: '2,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43705569-fc1d-4e6e-8ae8-84214802fc83',
+            logo:'./cozinha/sandes.png',
             category: 'cozinha'
         },
         {
@@ -929,7 +930,7 @@ const menu =
             name: 'Sandes Fiambre',
             description: 'Pão baguete, fiambre',
             price: '2,00 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43705569-fc1d-4e6e-8ae8-84214802fc83',
+            logo:'./cozinha/sandes.png',
             category: 'cozinha'
         },
         {
@@ -937,7 +938,7 @@ const menu =
             name: 'Sandes Peito de Frango',
             description: 'Pão baguete, queijo, fiambre',
             price: '2,20 €',
-            logo:'https://github.com/DIGOARTHUR/menu-TucanoBeachBar/assets/59892368/43705569-fc1d-4e6e-8ae8-84214802fc83',
+            logo:'./cozinha/sandes.png',
             category: 'cozinha'
         },
 
