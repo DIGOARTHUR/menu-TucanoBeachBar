@@ -44,7 +44,7 @@ export default function Cozinha() {
 
     return (
         <>
-            <div className=" w-full flex flex-col  px-2  min-h-screen">
+            <div  className=" w-full flex flex-col  px-2  min-h-screen ">
                 <Link to="/" className="">
                     <TiArrowBackOutline size={50} fill="#ffffff" />
                 </Link>
