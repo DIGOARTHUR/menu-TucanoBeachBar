@@ -25,7 +25,7 @@ const router = createBrowserRouter(
 function App() {
 
   return (
-    <div className="bg-[url('/bg4.png')] ">
+    <div className="bg-[url('https://github.com/user-attachments/assets/1521b105-1f4d-423d-be46-11ff900a1279')] ">
       <RouterProvider router={router} />
     </div>
   )
