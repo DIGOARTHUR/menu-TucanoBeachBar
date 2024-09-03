@@ -110,7 +110,7 @@ export default function Home() {
           <div dangerouslySetInnerHTML={{
             __html: `
           <video className='VideoTag' playsinline autoplay loop muted >
-            <source src='waveVideo.mp4' type='video/mp4' />
+            <source src='./waveVideo.mp4' type='video/mp4' />
          </video>`}}
           />
 
