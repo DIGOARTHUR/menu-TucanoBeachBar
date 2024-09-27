@@ -7,7 +7,7 @@ const menu =
             name: 'Café',
             description: 'café expresso',
             price: '1,00 €',
-            logo:'./cafeteria/cafe_expresso.png',
+            logo:'./cafeteria/cafe_expresso.webp',
             category: 'cafeteria'
         },
         {
@@ -15,7 +15,7 @@ const menu =
             name: 'Carioca de café',
             description: 'Cafe expresso suave',
             price: '1,00 €',
-            logo:'./cafeteria/cafe_carioca.png',
+            logo:'./cafeteria/cafe_carioca.webp',
             category: 'cafeteria'
         },
         {
@@ -23,7 +23,7 @@ const menu =
             name: 'Carioca de Limao',
             description: 'Cha pequeno de cascas de limão',
             price: '0.90 €',
-            logo:'./cafeteria/carioca_limao.png',
+            logo:'./cafeteria/carioca_limao.webp',
             category: 'cafeteria'
         },
         {
@@ -31,7 +31,7 @@ const menu =
             name: 'Chá',
             description: 'Infusao diversos sabores',
             price: '1,50 €',
-            logo:'./cafeteria/cha.png',
+            logo:'./cafeteria/cha.webp',
             category: 'cafeteria'
         },
         {
@@ -39,14 +39,14 @@ const menu =
             name: 'Café c/ gelo',
             description: 'café expresso com pedras de gelo',
             price: '1,20 €',
-            logo:'./cafeteria/cafe_com_gelo.png',
+            logo:'./cafeteria/cafe_com_gelo.webp',
             category: 'cafeteria'
         },
         {
             id: 6,
             name: 'Café c/ Natas Pequeno',
             description: 'cafe expresso com topping de natas',
-            logo:'./cafeteria/cafe_com_natas.png',
+            logo:'./cafeteria/cafe_com_natas.webp',
             price: '1,30 €',
             category: 'cafeteria'
         },
@@ -55,7 +55,7 @@ const menu =
             name: 'Café c/ Natas Grande',
             description: 'cafe expresso  com topping de natas',
             price: '1,80 €',
-            logo:'./cafeteria/cafe_com_natas.png',
+            logo:'./cafeteria/cafe_com_natas.webp',
             category: 'cafeteria'
         },
         {
@@ -70,7 +70,7 @@ const menu =
             name: 'Cappuccino',
             description: 'café expresso, leite vaporizado, natas, espuma de leite',
             price: '2,20 €',
-            logo:'./cafeteria/capuccino.png',
+            logo:'./cafeteria/capuccino.webp',
             category: 'cafeteria'
         },
         {
@@ -92,7 +92,7 @@ const menu =
             name: 'Chocolate Quente',
             description: 'Chocolate Quente super cremoso, varios sabores disponiveis',
             price: '3,00 €',
-            logo:'./cafeteria/chocolate_quente.png',
+            logo:'./cafeteria/chocolate_quente.webp',
             category: 'cafeteria'
         },
         {
@@ -100,7 +100,7 @@ const menu =
             name: 'Garoto',
             description: 'cafe expresso, leite',
             price: '€',
-            logo:'./cafeteria/garoto.png',
+            logo:'./cafeteria/garoto.webp',
             category: 'cafeteria'
         },
         {
@@ -108,7 +108,7 @@ const menu =
             name: 'Galao',
             description: 'cafe expresso, leite, espuma de leite',
             price: '1,40 €',
-            logo:'./cafeteria/galao.png',
+            logo:'./cafeteria/galao.webp',
             category: 'cafeteria'
         },
         {
@@ -116,7 +116,7 @@ const menu =
             name: 'Meia de Leite',
             description: 'cafe expresso, leite, espuma de leite',
             price: '1,30 €',
-            logo:'./cafeteria/meia_leite.png',
+            logo:'./cafeteria/meia_leite.webp',
             category: 'cafeteria'
         },
         {
@@ -124,7 +124,7 @@ const menu =
             name: 'Ucal',
             description: 'Bebida achocolatada',
             price: '1,80 €',
-            logo:'./cafeteria/ucal.png',
+            logo:'./cafeteria/ucal.webp',
             category: 'cafeteria'
         },
         {
@@ -139,7 +139,7 @@ const menu =
             name: 'Copo de Leite',
             description: '',
             price: '1,00 €',
-            logo:'./cafeteria/copo_leite.png',
+            logo:'./cafeteria/copo_leite.webp',
             category: 'cafeteria'
         },
         {
@@ -155,7 +155,7 @@ const menu =
             name: 'Torrada',
             description: 'Pão de torrada ou baguete torrado, manteiga',
             price: '1,50 €',
-            logo:'./cafeteria/torrada.png',
+            logo:'./cafeteria/torrada.webp',
             category: 'cafeteria'
         },
         {
@@ -163,7 +163,7 @@ const menu =
             name: 'Meia Torrada',
             description: 'Pão de torrada ou baguete torrado, manteiga',
             price: '1,20 €',
-            logo:'./cafeteria/torrada.png',
+            logo:'./cafeteria/torrada.webp',
             category: 'cafeteria'
         },
         {
@@ -171,7 +171,7 @@ const menu =
             name: 'Tosta Mista',
             description: 'Pão Baguete, Fiambre, Queijo',
             price: '2,70 €',
-            logo:'./cafeteria/tosta_mista.png',
+            logo:'./cafeteria/tosta_mista.webp',
             category: 'cafeteria'
         },
         {
@@ -179,7 +179,7 @@ const menu =
             name: 'Tosta Queijo',
             description: 'Pão Baguete, Queijo',
             price: '2,50 €',
-            logo:'./cafeteria/tosta_queijo.png',
+            logo:'./cafeteria/tosta_queijo.webp',
             category: 'cafeteria'
         },
         {
@@ -187,7 +187,7 @@ const menu =
             name: 'Tosta Fiambre',
             description: 'Pão Baguete, Fiambre',
             price: '2,50 €',
-            logo:'./cafeteria/tosta_fiambre.png',
+            logo:'./cafeteria/tosta_fiambre.webp',
             category: 'cafeteria'
         },
         {
@@ -195,7 +195,7 @@ const menu =
             name: 'Salgados',
             description: 'Salgados variados, Risois:Leitão, Camarão, Coxinha de frango, Pastel de bacalhao, Croquete de carne',
             price: '1,70 €',
-            logo:'./cafeteria/salgados.png',
+            logo:'./cafeteria/salgados.webp',
             category: 'cafeteria'
         },
         {
@@ -203,7 +203,7 @@ const menu =
             name: 'Bolos',
             description: 'Pasteis de nata, Mil folhas, bola de berlim, bolos variados',
             price: '1,30 €',
-            logo:'./cafeteria/bolos.png',
+            logo:'./cafeteria/bolos.webp',
             category: 'cafeteria'
         },
         {
@@ -219,7 +219,7 @@ const menu =
             name: 'Agua s/ gás 0,50Cl',
             description: '',
             price: '1,00 €',
-            logo:'./bebida/agua_sem_gas.png',
+            logo:'./bebida/agua_sem_gas.webp',
             category: 'bebida'
         },
         {
@@ -227,7 +227,7 @@ const menu =
             name: 'Agua c/ gás',
             description: 'Aguas das Pedras, Castelo',
             price: '1,60 €',
-            logo:'./bebida/agua_com_gas.png',
+            logo:'./bebida/agua_com_gas.webp',
             category: 'bebida'
         },
         {
@@ -235,7 +235,7 @@ const menu =
             name: 'Agua s/ gás 1,50L',
             description: '',
             price: '1,70 €',
-            logo:'./bebida/agua_sem_gas.png',
+            logo:'./bebida/agua_sem_gas.webp',
             category: 'bebida'
         },
         {
@@ -243,7 +243,7 @@ const menu =
             name: 'Agua c/ gás sabores',
             description: 'Aguas das Pedras, Frizz',
             price: '1,80 €',
-            logo:'./bebida/agua_com_sabores.png',
+            logo:'./bebida/agua_com_sabores.webp',
             category: 'bebida'
         },
         {
@@ -251,7 +251,7 @@ const menu =
             name: 'Agua Tónica',
             description: '',
             price: '1,80 €',
-            logo:'./bebida/agua.png',
+            logo:'./bebida/agua.webp',
             category: 'bebida'
         },
         {
@@ -259,7 +259,7 @@ const menu =
             name: 'Bem disposto',
             description: 'Gasosa c/ Groselia',
             price: '1,80 €',
-            logo:'./bebida/bem_disposto.png',
+            logo:'./bebida/bem_disposto.webp',
             category: 'bebida'
         },
         {
@@ -267,7 +267,7 @@ const menu =
             name: 'Coca Cola',
             description: '',
             price: '1,80 €',
-            logo:'./bebida/cocacola.png',
+            logo:'./bebida/cocacola.webp',
             category: 'bebida'
         },
         {
@@ -275,7 +275,7 @@ const menu =
             name: 'Coca Cola Zero',
             description: '',
             price: '1,80 €',
-            logo:'./bebida/cocacola_zero.png',
+            logo:'./bebida/cocacola_zero.webp',
             category: 'bebida'
         },
         {
@@ -283,7 +283,7 @@ const menu =
             name: 'Guaraná',
             description: '',
             price: '1,80 €',
-            logo:'./bebida/guarana.png',
+            logo:'./bebida/guarana.webp',
             category: 'bebida'
         },
         {
@@ -291,14 +291,14 @@ const menu =
             name: 'Ginger Ale',
             description: '',
             price: '1,80 €',
-            logo:'./bebida/gingerale.png', 
+            logo:'./bebida/gingerale.webp', 
             category: 'bebida'
         },
         {
             id: 38,
             name: 'Ice Tea',
             description: 'Sabores: limão, pessego e manga',
-            logo:'./bebida/icetea.png',
+            logo:'./bebida/icetea.webp',
             price: '1,80 €',
             category: 'bebida'
         },
@@ -307,7 +307,7 @@ const menu =
             name: 'Sumo Natural',
             description: 'Sumo natural de laranja',
             price: '3,00 €',
-            logo:'./bebida/sumo_natural.png',
+            logo:'./bebida/sumo_natural.webp',
             category: 'bebida'
         },
         {
@@ -315,7 +315,7 @@ const menu =
             name: 'Sumol',
             description: 'Sabores: Ananás, Laranja',
             price: '1,80 €',
-            logo:'./bebida/sumol.png',
+            logo:'./bebida/sumol.webp',
             category: 'bebida'
         },
         {
@@ -323,7 +323,7 @@ const menu =
             name: 'Seven-Up',
             description: '',
             price: '1,80 €',
-            logo:'./bebida/sevenup.png',
+            logo:'./bebida/sevenup.webp',
             category: 'bebida'
         },
         {
@@ -331,7 +331,7 @@ const menu =
             name: 'Nectares',
             description: 'Compais sabores variados',
             price: '1,80 €',
-            logo:'./bebida/compal.png',
+            logo:'./bebida/compal.webp',
             category: 'bebida'
         },
         {
@@ -339,7 +339,7 @@ const menu =
             name: 'Imperial',
             description: 'Cerveja de Pressão',
             price: '1,50 €',
-            logo:'./bar/superbock.png',
+            logo:'./bar/superbock.webp',
             category: 'bar'
         },
         {
@@ -347,7 +347,7 @@ const menu =
             name: 'Cerveja Garrafa 33CL',
             description: '',
             price: '1,80 €',
-            logo:'./bar/superbock.png',
+            logo:'./bar/superbock.webp',
             category: 'bar'
         },
         {
@@ -355,7 +355,7 @@ const menu =
             name: 'Caneca',
             description: 'Cerveja Pressão 0,50cl',
             price: '2,80 €',
-            logo:'./bar/superbock.png',
+            logo:'./bar/superbock.webp',
             category: 'bar'
         },
         {
@@ -363,7 +363,7 @@ const menu =
             name: 'Cerveja Preta Garrafa 33CL',
             description: '',
             price: '1,80 €',
-            logo:'./bar/superbock_stout.png',
+            logo:'./bar/superbock_stout.webp',
             category: 'bar'
         },
         {
@@ -371,7 +371,7 @@ const menu =
             name: 'Cerveja s/ Alcool',
             description: '',
             price: '1,80 €',
-            logo:'./bar/superbock_00.png',
+            logo:'./bar/superbock_00.webp',
             category: 'bar'
         },
         {
@@ -400,7 +400,7 @@ const menu =
             name: 'Torre de Cerveja',
             description: '',
             price: '18,00 €',
-            logo:'./bar/torre_de_cerveja.png',
+            logo:'./bar/torre_de_cerveja.webp',
             category: 'bar'
         },
         {
@@ -415,14 +415,14 @@ const menu =
             name: 'Favaios c/ Cerveja',
             description: 'Cerveja Pressão, Favaios',
             price: '2,70 €',
-            logo:'./bar/favaio.png',
+            logo:'./bar/favaio.webp',
             category: 'bar'
         },
         {
             id: 54,
             name: 'Martine',
             description: 'Martine, cascas de limão, gelo',
-            logo:'./bar/martine.png',
+            logo:'./bar/martine.webp',
             price: '2,00 €',
             category: 'bar'
         },
@@ -431,7 +431,7 @@ const menu =
             name: 'Favaios',
             description: 'Favaios, cascas de limão, gelo',
             price: '2,00 €',
-            logo:'./bar/favaio.png',
+            logo:'./bar/favaio.webp',
             category: 'bar'
         },
         {
@@ -439,7 +439,7 @@ const menu =
             name: 'Somersby 20CL',
             description: 'Cidra Pressão',
             price: '1,80 €',
-            logo:'./bar/somersby.png',
+            logo:'./bar/somersby.webp',
             category: 'bar'
         },
         {
@@ -447,7 +447,7 @@ const menu =
             name: 'Somersby 40CL',
             description: 'Cidra Pressão',
             price: '3,50 €',
-            logo:'./bar/somersby.png',
+            logo:'./bar/somersby.webp',
             category: 'bar'
         },
         {
@@ -455,7 +455,7 @@ const menu =
             name: 'Sangria',
             description: '',
             price: '12,00 €',
-            logo:'./bar/sangria.png',
+            logo:'./bar/sangria.webp',
             category: 'bar'
         },
         {
@@ -463,7 +463,7 @@ const menu =
             name: 'Sangria Copo',
             description: '',
             price: '3,50 €',
-            logo:'./bar/sangria_copo.png',
+            logo:'./bar/sangria_copo.webp',
             category: 'bar'
         },
         {
@@ -478,7 +478,7 @@ const menu =
             name: 'Copo de vinho',
             description: '',
             price: '3,50 €',
-            logo:'./bar/copo_de_vinho.png',
+            logo:'./bar/copo_de_vinho.webp',
             category: 'bar'
         },
         {
@@ -486,7 +486,7 @@ const menu =
             name: 'Croft',
             description: '',
             price: '2,50 €',
-            logo:'./bar/croft.png',
+            logo:'./bar/croft.webp',
             category: 'bar'
         },
         {
@@ -494,14 +494,14 @@ const menu =
             name: 'Croft 1/2',
             description: '',
             price: '3,50 €',
-            logo:'./bar/croft.png',
+            logo:'./bar/croft.webp',
             category: 'bar'
         },
         {
             id: 64,
             name: 'Cr&f',
             description: '',
-            logo:'./bar/crf.png',
+            logo:'./bar/crf.webp',
             price: '5,00 €',
             category: 'bar'
         },
@@ -510,14 +510,14 @@ const menu =
             name: 'Gin tonica - Bombay',
             description: '',
             price: '6,00 €',
-            logo:'./bar/gin_tonica_bombay.png',
+            logo:'./bar/gin_tonica_bombay.webp',
             category: 'bar'
         },
         {
             id: 66,
             name: 'Gin tonica - Bulldog',
             description: '',
-            logo:'./bar/gin_tonica_bulldog.png',
+            logo:'./bar/gin_tonica_bulldog.webp',
             price: '10,00 €',
             category: 'bar'
         },
@@ -526,7 +526,7 @@ const menu =
             name: 'Gin tonica - Gordon´s ',
             description: '',
             price: '6,00 €',
-            logo:'./bar/gin_tonica_gordons.png',
+            logo:'./bar/gin_tonica_gordons.webp',
             category: 'bar'
         },
         {
@@ -534,7 +534,7 @@ const menu =
             name: 'Gin tonica - Gordon´s Pink',
             description: '',
             price: '8,00 €',
-            logo:'./bar/gin_tonica_gordonsPink.png',
+            logo:'./bar/gin_tonica_gordonsPink.webp',
             category: 'bar'
         },
         {
@@ -542,14 +542,14 @@ const menu =
             name: 'Gin tonica - Tanqueray',
             description: '',
             price: '6,00 €',
-            logo: './bar/gin_tonica_tanqueray.png',
+            logo: './bar/gin_tonica_tanqueray.webp',
             category: 'bar'
         },
         {
             id: 70,
             name: 'Gin tonica - Tanquaray Sevilha',
             description: '',
-            logo: './bar/gin_tonica_tanqueraySevilha.png',
+            logo: './bar/gin_tonica_tanqueraySevilha.webp',
             price: '8,00 €',
             category: 'bar'
         },
@@ -557,7 +557,7 @@ const menu =
             id: 71,
             name: 'Gin tonica - BomBay Saphire',
             description: '',
-            logo: './bar/gin_tonica_bombay.png',
+            logo: './bar/gin_tonica_bombay.webp',
             price: '9,00 €',
             category: 'bar'
         },
@@ -566,7 +566,7 @@ const menu =
             name: 'Gin tonica - Hendrics',
             description: '',
             price: '10,00 €',
-            logo: './bar/gin_tonica_hendrics.png',
+            logo: './bar/gin_tonica_hendrics.webp',
             category: 'bar'
         },
         {
@@ -574,7 +574,7 @@ const menu =
             name: 'Gin tonica - Sharish',
             description: '',
             price: '10,00 €',
-            logo: './bar/gin_tonica_sharish.png',
+            logo: './bar/gin_tonica_sharish.webp',
             category: 'bar'
         },
         {
@@ -596,7 +596,7 @@ const menu =
             name: 'Whisky Cardhu',
             description: '',
             price: '10,00 €',
-            logo: './bar/whisky_cardhu.png',
+            logo: './bar/whisky_cardhu.webp',
             category: 'bar'
         },
         {
@@ -625,14 +625,14 @@ const menu =
             name: 'Licor Beirão',
             description: '',
             price: '5,00 €',
-            logo: './bar/beirao.png',
+            logo: './bar/beirao.webp',
             category: 'bar'
         },
         {
             id: 81,
             name: 'Baileys',
             description: '',
-            logo: './bar/baileys.png',
+            logo: './bar/baileys.webp',
             price: '5,00 €',
             category: 'bar'
         },
@@ -641,7 +641,7 @@ const menu =
             name: 'Amendoa Amarga',
             description: '',
             price: '3,00 €',
-            logo: './bar/amendoa_amarga.png',
+            logo: './bar/amendoa_amarga.webp',
             category: 'bar'
         },
         {
@@ -649,7 +649,7 @@ const menu =
             name: 'Aliança Velha',
             description: '',
             price: '4,00 €',
-            logo: './bar/alianca_velha.png',
+            logo: './bar/alianca_velha.webp',
             category: 'bar'
         },
         {
@@ -657,14 +657,14 @@ const menu =
             name: 'Fim de século',
             description: '',
             price: '5,00 €',
-            logo: './bar/fim_de_seculo.png',
+            logo: './bar/fim_de_seculo.webp',
             category: 'bar'
         },
         {
             id: 85,
             name: 'Cr&f 1/2',
             description: '',
-            logo:'./bar/crf.png',
+            logo:'./bar/crf.webp',
             price: '3,00 €',
             category: 'bar'
         },
@@ -678,7 +678,7 @@ const menu =
         {
             id: 87,
             name: 'Aliança Velha 1/2',
-            logo: './bar/alianca_velha.png',
+            logo: './bar/alianca_velha.webp',
             description: '',
             price: '2,50 €',
             category: 'bar'
@@ -695,7 +695,7 @@ const menu =
             name: 'Macieira',
             description: '',
             price: '3,20 €',
-            logo: './bar/macieira.png',
+            logo: './bar/macieira.webp',
             category: 'bar'
         },
         {
@@ -703,7 +703,7 @@ const menu =
             name: 'Macieira 1/2 ',
             description: '',
             price: '5,00 €',
-            logo: './bar/macieira.png',
+            logo: './bar/macieira.webp',
             category: 'bar'
         },
         {
@@ -711,7 +711,7 @@ const menu =
             name: 'Licor Beirão 1/2',
             description: '',
             price: '3,00 €',
-            logo: './bar/beirao.png',
+            logo: './bar/beirao.webp',
             category: 'bar'
         },
         {
@@ -719,14 +719,14 @@ const menu =
             name: 'Amendoa Amarga 1/2',
             description: '',
             price: '2,00 €',
-            logo: './bar/amendoa_amarga.png',
+            logo: './bar/amendoa_amarga.webp',
             category: 'bar'
         },
         {
             id: 93,
             name: 'Shot',
             description: '',
-            logo: './bar/shot.png',
+            logo: './bar/shot.webp',
             price: '1,50 €',
             category: 'bar'
         },
@@ -735,7 +735,7 @@ const menu =
             name: 'Caipirinha',
             description: '',
             price: '5,00 €',
-            logo:'./bar/capirinha.png',
+            logo:'./bar/capirinha.webp',
             category: 'bar'
         },
         {
@@ -743,7 +743,7 @@ const menu =
             name: 'Caipirão',
             description: '',
             price: '5,00 €',
-            logo:'./bar/caipirao.png',
+            logo:'./bar/caipirao.webp',
             category: 'bar'
         },
         {
@@ -751,7 +751,7 @@ const menu =
             name: 'Caipi Black',
             description: '',
             price: '5,00 €',
-            logo:'./bar/caipiblack.png',
+            logo:'./bar/caipiblack.webp',
             category: 'bar'
         },
         {
@@ -766,7 +766,7 @@ const menu =
             name: 'Cuba Libre',
             description: 'Rum com Cola',
             price: '5,00 €',
-            logo:'./bar/cuba_libre.png',
+            logo:'./bar/cuba_libre.webp',
             category: 'bar'
         },
         {
@@ -802,7 +802,7 @@ const menu =
             name: 'Hamburguer Tucano',
             description: 'Hamburguer de vaca, molho cocktail, bacon, queijo, alface. tomate. cebola caramelizada',
             price: '9,00 €',
-            logo:'./cozinha/hamburguer.png',
+            logo:'./cozinha/hamburguer.webp',
             category: 'cozinha'
         },
         {
@@ -810,7 +810,7 @@ const menu =
             name: 'Hamburguer Picanha',
             description: 'Hamburguer de picanha, molho cocktail, queijo, fiambre, alface, tomate',
             price: '9,00 €',
-            logo:'./cozinha/hamburguer.png',
+            logo:'./cozinha/hamburguer.webp',
             category: 'cozinha'
         },
         {
@@ -818,7 +818,7 @@ const menu =
             name: 'Hamburguer de Frango',
             description: 'Hamburguer de Frango, maionese, queijo, fiambre, alface, tomate',
             price: '9,00 €',
-            logo:'./cozinha/hamburguer.png',
+            logo:'./cozinha/hamburguer.webp',
             category: 'cozinha'
         },
         {
@@ -826,7 +826,7 @@ const menu =
             name: 'Salada do Mar',
             description: 'Alface, tomate, salmão fumado, atum, camarão, ovo cozido, molho vinagrette',
             price: '10,00 €',
-            logo:'./cozinha/salada_mar.png',
+            logo:'./cozinha/salada_mar.webp',
             category: 'cozinha'
         },
         {
@@ -834,14 +834,14 @@ const menu =
             name: 'Salada Cesar',
             description: 'Alface, tomate, frango grelhado, Crottons, queijo ralado, molho cesar',
             price: '9,00 €',
-            logo:'./cozinha/salada_mar.png',
+            logo:'./cozinha/salada_mar.webp',
             category: 'cozinha'
         },
         {
             id: 108,
             name: 'Salada Mista',
             description: 'Alface, tomate, molho vinagrette',
-            logo:'./cozinha/salada_mista.png',
+            logo:'./cozinha/salada_mista.webp',
             price: '4,00 €',
             category: 'cozinha'
         },
@@ -850,7 +850,7 @@ const menu =
             name: 'Kebab no Prato',
             description: 'Carne de Kebab, molho pitta',
             price: '9,00 €',
-            logo:'./cozinha/kebab_prato.png',
+            logo:'./cozinha/kebab_prato.webp',
             category: 'cozinha'
         },
         {
@@ -858,7 +858,7 @@ const menu =
             name: 'Panados de Frango',
             description: 'files de peito panados, salada mista e batatas fritas',
             price: '9,00 €',
-            logo:'./cozinha/kebab_prato.png',
+            logo:'./cozinha/kebab_prato.webp',
             category: 'cozinha'
         },
         {
@@ -866,7 +866,7 @@ const menu =
             name: 'Dose de Batata',
             description: '',
             price: '2,80 €',
-            logo:'./cozinha/dose_batata.png',
+            logo:'./cozinha/dose_batata.webp',
             category: 'cozinha'
         },
         {
@@ -874,7 +874,7 @@ const menu =
             name: 'Cesto de Pão',
             description: '',
             price: '1,20 €',
-            logo:'./cozinha/pao.png',
+            logo:'./cozinha/pao.webp',
             category: 'cozinha'
         },
         {
@@ -882,7 +882,7 @@ const menu =
             name: 'Sandes Salmão Fumado',
             description: 'Pão baguete, queijo Philadelphia, Salmão fumado, tomate, cebolinho',
             price: '6,00 €',
-            logo:'./cozinha/sandes.png',
+            logo:'./cozinha/sandes.webp',
             category: 'cozinha'
         },
         {
@@ -890,7 +890,7 @@ const menu =
             name: 'Sandes de Atum',
             description: 'Pão baguete, atum, alface, tomate',
             price: '4,50 €',
-            logo:'./cozinha/sandes.png',
+            logo:'./cozinha/sandes.webp',
             category: 'cozinha'
         },
         {
@@ -898,7 +898,7 @@ const menu =
             name: 'Sandes de Delicias do mar',
             description: 'Pão baguete, pasta de delicias do mar,alface, tomate, ovo cozido',
             price: '4,50 €',
-            logo:'./cozinha/sandes.png',
+            logo:'./cozinha/sandes.webp',
             category: 'cozinha'
         },
         {
@@ -906,7 +906,7 @@ const menu =
             name: 'Sandes Verão',
             description: 'Pão baguete, queijo, fiambre, alface, tomate',
             price: '4,00 €',
-            logo:'./cozinha/sandes.png',
+            logo:'./cozinha/sandes.webp',
             category: 'cozinha'
         },
         {
@@ -922,7 +922,7 @@ const menu =
             name: 'Sandes Queijo',
             description: 'Pão baguete, queijo',
             price: '2,00 €',
-            logo:'./cozinha/sandes.png',
+            logo:'./cozinha/sandes.webp',
             category: 'cozinha'
         },
         {
@@ -930,7 +930,7 @@ const menu =
             name: 'Sandes Fiambre',
             description: 'Pão baguete, fiambre',
             price: '2,00 €',
-            logo:'./cozinha/sandes.png',
+            logo:'./cozinha/sandes.webp',
             category: 'cozinha'
         },
         {
@@ -938,7 +938,7 @@ const menu =
             name: 'Sandes Peito de Frango',
             description: 'Pão baguete, queijo, fiambre',
             price: '2,20 €',
-            logo:'./cozinha/sandes.png',
+            logo:'./cozinha/sandes.webp',
             category: 'cozinha'
         },
 
